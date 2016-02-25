@@ -1,3 +1,5 @@
 Hello Java Junior Trainig!
+Hello Java Junior Trainig!
+
 
 
