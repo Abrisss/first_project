@@ -1,4 +1,5 @@
 Hello Java Junior Trainig! Second!
+Hello Java Junior Trainig! Second! NewLine!
 
 
 
