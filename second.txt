@@ -8,3 +8,4 @@ Hello Java Junior Trainig! My 2. commit!
 
 
 THisn line is added in master!
+This line is added is master
